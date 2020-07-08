@@ -23,6 +23,12 @@ Login Screen
   <img src="screenshots/loginScreen.jpeg" alt="Login" height="450" width="225">
 </p>
 
+Drawer Screen
+<br>
+<p>
+  <img src="screenshots/drawerScreen.jpeg" alt="Drawer Screen" height="450" width="225">
+</p>
+
 Guesthouses Screen
 <br>
 <p>
@@ -40,12 +46,6 @@ Date Selection
 <br>
 <p>
   <img src="screenshots/dateSelectionScreen.jpeg" alt="Date Selection" height="450" width="225">
-</p>
-
-Drawer Screen
-<br>
-<p>
-  <img src="screenshots/drawerScreen.jpeg" alt="Drawer Screen" height="450" width="225">
 </p>
 
 Hospitality Screen
