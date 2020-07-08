@@ -92,25 +92,25 @@ Room Selection Screen
 Authentication Screen
 <br>
 <p>
-  <img src="screenshots/authentication.png" alt="Authentication Screen" height="450" width="225">
+  <img src="screenshots/authentication.png" alt="Authentication Screen" height="450" width="600">
 </p>
 
 Database Screen
 <br>
 <p>
-  <img src="screenshots/database1.png" alt="Database" height="450" width="225">
+  <img src="screenshots/database1.png" alt="Database" height="450" width="600">
 </p>
 <br>
 <p>
-  <img src="screenshots/database2.png" alt="Database" height="450" width="225">
+  <img src="screenshots/database2.png" alt="Database" height="450" width="600">
 </p>
 
 Firebase DB Screen
 <br>
 <p>
-  <img src="screenshots/firestore1.png" alt="Firebase" height="450" width="225">
+  <img src="screenshots/firestore1.png" alt="Firebase" height="450" width="600">
 </p>
 <br>
 <p>
-  <img src="screenshots/firestore2.png" alt="Firebase" height="450" width="225">
+  <img src="screenshots/firestore2.png" alt="Firebase" height="450" width="600">
 </p>
