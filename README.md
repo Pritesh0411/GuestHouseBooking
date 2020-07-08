@@ -10,6 +10,12 @@ Logo
   <img src="screenshots/logo.jpg" alt="Logo" height="450" width="225">
 </p>
 
+Registration Screen
+<br>
+<p>
+  <img src="screenshots/registrationScreen.jpeg" alt="Registration Screen" height="450" width="225">
+</p>
+
 Login Screen
 <br>
 <p>
@@ -71,12 +77,6 @@ Profile Screen
   <img src="screenshots/profileScreen.jpeg" alt="Profile Screen" height="450" width="225">
 </p>
 
-Registration Screen
-<br>
-<p>
-  <img src="screenshots/registrationScreen.jpeg" alt="Registration Screen" height="450" width="225">
-</p>
-
 Room Details Screen
 <br>
 <p>
@@ -89,13 +89,13 @@ Room Selection Screen
   <img src="screenshots/roomsSelectionScreen.jpeg" alt="Room Selection Screen" height="450" width="225">
 </p>
 
-Authentication Screen
+Authentication
 <br>
 <p>
   <img src="screenshots/authentication.png" alt="Authentication Screen" height="450" width="600">
 </p>
 
-Database Screen
+Firebase Database
 <br>
 <p>
   <img src="screenshots/database1.png" alt="Database" height="450" width="600">
@@ -105,7 +105,7 @@ Database Screen
   <img src="screenshots/database2.png" alt="Database" height="450" width="600">
 </p>
 
-Firebase DB Screen
+Firestore
 <br>
 <p>
   <img src="screenshots/firestore1.png" alt="Firebase" height="450" width="600">
