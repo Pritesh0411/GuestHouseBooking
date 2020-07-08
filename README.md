@@ -1,16 +1,32 @@
-# soft_proj
+#Guest House Booking Platform for IITI guesthouses
+<br>
+##Project done under Software Engineering Lab Course
+<br>
+Guided by : Dr. Puneet Gupta
 
-A new Flutter project.
+##Screenshots
+<br>
+Logo
+<br>
+<p>
+  <img src="sreenshots/logo.jpg" alt="Logo" height="450" width="225">
+</p>
 
-## Getting Started
+Login Screen
+<br>
+<p>
+  <img src="sreenshots/login.jpeg" alt="Login" height="450" width="225">
+</p>
 
-This project is a starting point for a Flutter application.
+Homescreen
+<br>
+<p>
+  <img src="screenshots/homescreen.jpeg" alt="Homescreen" height="450" width="225">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Guesthouses Screen
+<br>
+<p>
+  <img src="screenshots/guestHousesScreen.jpeg" alt="Guesthouses Screen
+" height="450" width="225">
+</p>
