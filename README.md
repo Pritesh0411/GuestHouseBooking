@@ -4,11 +4,12 @@
 
 ## Screenshots
 <br>
-Logo
+Homescreen
 <br>
 <p>
-  <img src="screenshots/logo.jpg" alt="Logo" height="450" width="225">
+  <img src="screenshots/homeScreen.jpeg" alt="Homescreen" height="450" width="225">
 </p>
+
 
 Registration Screen
 <br>
@@ -20,12 +21,6 @@ Login Screen
 <br>
 <p>
   <img src="screenshots/loginScreen.jpeg" alt="Login" height="450" width="225">
-</p>
-
-Homescreen
-<br>
-<p>
-  <img src="screenshots/homeScreen.jpeg" alt="Homescreen" height="450" width="225">
 </p>
 
 Guesthouses Screen
