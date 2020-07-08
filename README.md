@@ -2,7 +2,7 @@
 <br>
 ## Project done under Software Engineering Lab Course
 <br>
-Guided by : Dr. Puneet Gupta
+## Guided by : Dr. Puneet Gupta
 
 ## Screenshots
 <br>
