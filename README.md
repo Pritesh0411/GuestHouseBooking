@@ -1,7 +1,5 @@
 # Guest House Booking Platform for IITI guesthouses
-<br>
 ## Project done under Software Engineering Lab Course
-<br>
 ## Guided by : Dr. Puneet Gupta
 
 ## Screenshots
